@@ -18,12 +18,12 @@ tz = pytz.timezone("Asia/kolkata")
 sj = BackgroundScheduler(timezone="Asia/kolkata")
 
 
-git_token = "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"
+git_token = "GITHUB_TOKEN"
 
 import base64
-bot_token = '6530315910:AAF1NPd0Pro1X9LZBlGzjKhvMdHgl0bxGmk'
-api_id = '6810439'
-api_hash = '66ac3b67cce1771ce129819a42efe02e'
+bot_token = 'BOT_TOKEN'
+api_id = 'API_ID'
+api_hash = 'API_HASH'
 
 tz = pytz.timezone("Asia/kolkata")
 import os.path
