@@ -1,4 +1,4 @@
-A simple telegram bot to check omr sheets efficiently. (for personal use for now)
+A simple telegram bot to check omr sheets efficiently. (for personal use)
 
 
 
