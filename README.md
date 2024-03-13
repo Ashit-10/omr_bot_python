@@ -1,3 +1,7 @@
+A simple telegram bot to check omr sheets efficiently. (for personal use for now)
+
+
+
 /start - Creates exam folder and answer key
 
 /set  - sets a default folder for checking answers
